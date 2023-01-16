@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=integraledelebesgue&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=integraledelebesgue&theme=dark"/>
+
 
 <!--
 **integraledelebesgue/integraledelebesgue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
