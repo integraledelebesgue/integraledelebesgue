@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=integraledelebesgue&theme=dark"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=integraledelebesgue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
